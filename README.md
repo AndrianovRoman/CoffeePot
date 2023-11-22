@@ -1,4 +1,4 @@
-# [Одностраничный сайт](https://andrianovroman.github.io/CoffeePot/) для продажи - CoffeePot
+# [Одностраничный сайт](https://andrianovroman.github.io/CoffeePot/) для продажи кофе - CoffeePot
 
 - Без адаптива
 - Без использования библиотек
